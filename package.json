@@ -1,0 +1,30 @@
+{
+  "name": "rieluz-dsn",
+  "version": "1.0.0",
+  "description": "DSN Parser to build config connection for rieluz lib.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "author": {
+    "name": "Alberto Menendez Romero",
+    "email": "albertomr86@gmail.com",
+    "url": "https://github.com/albertomr86"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albertomr86/rieluz-dsn.git"
+  },
+  "keywords": [
+    "dsn",
+    "parse",
+    "rieluz",
+    "orientdb"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/albertomr86/rieluz-dsn#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.5"
+  }
+}
